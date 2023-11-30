@@ -1,0 +1,63 @@
+{
+    "firstName":"John",
+    "lastName": "Cena",
+    "email": "johncena@mail.com",
+    "mobileNo": "09776675555",
+    "password": "youcantseeme"
+}
+
+{
+    "firstName":"Arvin",
+    "lastName": "Diaz",
+    "email": "arvindiaz@mail.com",
+    "mobileNo": "09123456789",
+    "password": "admin"
+}
+
+{
+    "firstName":"Johnny",
+    "lastName": "Walker",
+    "email": "jw@mail.com",
+    "mobileNo": "09123123123",
+    "password": "futureadmin"
+}
+
+{
+    "firstName":"Super",
+    "lastName": "Man",
+    "email": "sup@mail.com",
+    "mobileNo": "911",
+    "password": "clarkkent"
+}
+
+{
+    "firstName":"Juan",
+    "lastName": "Dela Cruz",
+    "email": "jdc@mail.com",
+    "mobileNo": "09999999999",
+    "password": "juantwothree"
+}
+
+{
+    "firstName":"Mich",
+    "lastName": "Anne",
+    "email": "michanne@mail.com",
+    "mobileNo": "09232323232",
+    "password": "michanne123"
+}
+
+{
+    "firstName":"Iron",
+    "lastName": "Man",
+    "email": "ironman@mail.com",
+    "mobileNo": "1",
+    "password": "tonystark"
+}
+
+{
+    "firstName":"Jebron",
+    "lastName": "Lames",
+    "email": "lbj@mail.com",
+    "mobileNo": "09857466363",
+    "password": "jebron"
+}
